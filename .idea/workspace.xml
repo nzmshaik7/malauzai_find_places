@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8de43818-3d9a-454d-8ba1-65f5fc60fd77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/malauzai_find_places.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/customer_data.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/url_list.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/customer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/error.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/query.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/request.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/malauzai_find_places.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/customer_data.yml.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,10 +100,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581492474964" />
-    <state x="460" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581492357982">
+    <state x="460" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582304949147">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="460" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1581492357982" />
+    <state x="460" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1582304949147" />
     <state width="1358" height="206" key="GridCell.Tab.0.bottom" timestamp="1581536213938">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

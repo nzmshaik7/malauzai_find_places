@@ -1,0 +1,6 @@
+default_customer:
+    api_key: ""
+    type: ""
+    language: ""
+    response_output: ""
+    number_of_locations: "200"
