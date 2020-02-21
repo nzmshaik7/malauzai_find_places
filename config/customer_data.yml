@@ -1,0 +1,25 @@
+customer_a:
+    api_key: "AIzaSyCI33WirMl2FJlzwi5vey0C8T63qnFh4Jg"
+    type: "atm"
+    language: "English"
+    response_output: "xml"
+    number_of_locations: 200
+customer_b:
+    api_key: "AIzaSyCI33WirMl2FJlzwi5vey0C8T63qnFh4Jg"
+    type: "bank"
+    language: "Spanish"
+    response_output: "json"
+    number_of_locations: 20
+customer_c:
+    api_key: "AIzaSyCI33WirMl2FJlzwi5vey0C8T63qnFh4Jg"
+    type: "all"
+    language: "French"
+    response_output: "json"
+    number_of_locations: 5
+
+default_customer:
+    api_key: "AIzaSyCI33WirMl2FJlzwi5vey0C8T68rnFh4Jg"
+    type: "all"
+    language: "English"
+    response_output: "xml"
+    number_of_locations: 200

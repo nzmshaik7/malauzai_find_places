@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8de43818-3d9a-454d-8ba1-65f5fc60fd77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/malauzai_find_places.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/customer_data.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/url_list.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/customer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/error.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/query.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/request.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/malauzai_find_places/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/malauzai_find_places.gemspec" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XhJMFDOgzsSMldNqP5E1tJg7Ft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spec" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/malauzai_find_places" />
+      <recent name="$PROJECT_DIR$/spec" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="query" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="malauzai_find_places" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/malauzai_find_places/query.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.query" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de43818-3d9a-454d-8ba1-65f5fc60fd77" name="Default Changelist" comment="" />
+      <created>1581492343165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581492343165</updated>
+      <workItem from="1581492346472" duration="30247000" />
+      <workItem from="1581539983585" duration="1055000" />
+      <workItem from="1581544144755" duration="65000" />
+      <workItem from="1582300620227" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581492474964">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581492474964" />
+    <state x="460" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581492357982">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1581492357982" />
+    <state width="1358" height="206" key="GridCell.Tab.0.bottom" timestamp="1581536213938">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1358" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581536213938" />
+    <state width="1358" height="206" key="GridCell.Tab.0.center" timestamp="1581536213936">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1358" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581536213936" />
+    <state width="1358" height="206" key="GridCell.Tab.0.left" timestamp="1581536213934">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1358" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581536213934" />
+    <state width="1358" height="206" key="GridCell.Tab.0.right" timestamp="1581536213937">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1358" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581536213937" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/malauzai_find_places@malauzai_find_places.rcov" NAME="malauzai_find_places Coverage Results" MODIFIED="1581492956275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="malauzai_find_places" />
+  </component>
+</project>
